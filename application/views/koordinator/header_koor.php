@@ -37,7 +37,7 @@
           </a>
           <ul class="sidenav-second-level collapse" id="collapseComponents">
             <li>
-              <a href="<?php echo base_url('index.php/koordinator/list_kim_koor');?>">DAFTAR KIM</a>
+              <a href="<?php echo base_url('index.php/koordinator/list_kim_koor');?>">Daftar KIM</a>
             </li>
             <li>
               <a href="<?php echo base_url('index.php/koordinator/kim_koor');?>">TAMBAH KIM</a>
